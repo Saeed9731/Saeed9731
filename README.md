@@ -5,7 +5,4 @@
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Saeed9731&show_icons=true&theme=radical&layout=compact&langs_count=8&card_width=100" />
-</a><br>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saeed9731&show_icons=true&theme=radical&langs_count=100&card_width=100" />
 </a>
